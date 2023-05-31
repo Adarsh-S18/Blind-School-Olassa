@@ -471,7 +471,7 @@ h5,
 
 .site-footer .footer-heading {
   font-size: 18px;
-  color: #fd4d40;
+  color: #f2ff7c;
 }
 
 .bg-text-line {
@@ -836,7 +836,7 @@ h5,
 }
 
 .site-navbar .site-navigation .site-menu .has-children .dropdown a.active {
-  color: #fd4d40 !important;
+  color:  #ffee00 !important;
   background: #f8f9fa;
 }
 
@@ -878,7 +878,7 @@ h5,
 .site-navbar .site-navigation .site-menu .has-children:hover>a,
 .site-navbar .site-navigation .site-menu .has-children:focus>a,
 .site-navbar .site-navigation .site-menu .has-children:active>a {
-  color: #fd4d40;
+  color:  #ffee00;
 }
 
 .site-navbar .site-navigation .site-menu .has-children:hover,
@@ -1002,11 +1002,11 @@ h5,
 }
 
 .site-mobile-menu .site-nav-wrap li .nav-link.active {
-  color: #fd4d40;
+  color:  #ffee00;
 }
 
 .site-mobile-menu .site-nav-wrap li.active>a {
-  color: #fd4d40;
+  color:  #039ce6;
 }
 
 .site-mobile-menu .site-nav-wrap .arrow-collapse {
@@ -1144,7 +1144,7 @@ h5,
 }
 
 .sticky-wrapper.is-sticky .site-navbar ul li a.active {
-  color: #fd4d40 !important;
+  color:  #ffee00 !important;
 }
 
 .sticky-wrapper .shrink {
@@ -1560,7 +1560,7 @@ h5,
 }
 
 .block-13 .owl-dots .owl-dot.active span {
-  background: #e81809;
+  background:  #ffee00;
 }
 
 .post-entry {
@@ -2459,9 +2459,10 @@ h5,
 
 .menu-wrap {
   /* padding: 10px 20px; */
+  height: 60px;
   padding-left: 20px;
   color: white;
-  background: #4a4a4a;
+  background: #5b5b5b;
   border-radius: 100px;
 }
 
@@ -2682,24 +2683,27 @@ h5,
   font-style: italic;
 }
 
-
+.packbox{
+  height: 265px;
+}
 
 .package {
-  color: #777;
-  background-color: rgb(255, 241, 138);
+  color: #333333;
+  background-color: hsl(51, 100%, 62%);
   padding: 40px;
   border: 1px solid rgb(226, 226, 226);
-  border-radius: 7px;
+  border-radius: 30px;
 }
 .packagee{
-  color: #777;
-  background-color: rgb(140, 220, 255);
+  color: #FFD700;
+  background-color: #333333;
   padding: 40px;
   border: 1px solid rgb(226, 226, 226);
-  border-radius: 7px;
+  border-radius: 30px;
 }
 .packagee h3 {
   font-size: 18px;
+  color: #FFD700;
   margin-bottom: 30px;
 }
 
